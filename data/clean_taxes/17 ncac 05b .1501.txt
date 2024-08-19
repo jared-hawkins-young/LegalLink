@@ -1,0 +1,10 @@
+﻿SECTION .1500 ‑ CHANGE OF INCOME YEAR
+
+17 NCAC 05B .1501	COMPUTATION OF TAX
+A change in income year automatically establishes a new franchise year. A combined franchise and income tax return is required for the short income period. Credit is permitted on such return against the franchise tax to the extent that the new franchise year overlaps the old year.
+
+History Note:	Authority G.S. 105‑122; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. October 31, 1981;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+

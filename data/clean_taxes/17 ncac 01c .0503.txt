@@ -1,0 +1,32 @@
+﻿17 NCAC 01C .0503	EFT Definitions
+The terms and phases used in this Section shall have the meanings prescribed in this Rule, unless a different meaning is indicated by the context in which the term or phrase is used.
+(1)	"ACH" or "Automated Clearing House" means a central distribution and settlement network for the electronic clearing of debits and credits between financial institutions rather than the physical movement of paper items.
+(2)	"ACH Credit" means an electronic payment where the electronic transfer of funds is initiated by a taxpayer and is cleared through the ACH for credit to the North Carolina Department of Revenue.
+(3)	"ACH Debit" means an electronic payment where the electronic transfer of funds from the taxpayer's account at a financial institution is initiated either through the Data Collection Center or online (bank draft) upon the taxpayer's instruction and is cleared through the ACH for deposit to the North Carolina Department of Revenue.
+(4)	"ACH Trace Number" means a unique number assigned to an electronic payment transaction by the financial institution originating the transaction.
+(5)	"Addenda Record" means the tax information and electronic format required by the Department in accordance with the rules in this Section in an ACH Credit transfer.
+(6)	"Call-in Day" means the day on which a taxpayer communicates information to the Data Collection Center to initiate an ACH Debit transaction.
+(7)	"CCD+" or "Cash Concentration or Disbursement Plus Addenda" means an ACH transaction format that includes one 80-character addenda record.
+(8)	"CB$" or "Core Banking System" means the Department of State Treasurer's online banking system for state agencies and institutions within the University of North Carolina system for transferring funds electronically.
+(9)	"Data Collection Center" or "DCC" means the third party vendor, who, under contract with the Department, collects and processes EFT payment information from taxpayers and initiates ACH Debit transactions.
+(10)	"Department" means the North Carolina Department of Revenue.
+(11)	"Due Date" means the date on which a payment is required to be made by a taxpayer under a General Statute of the State of North Carolina.
+(12)	"Electronic Funds Transfer" or "EFT" means any transfer of funds initiated through an electronic terminal, telephonic instrument, or computer (online) so as to order, instruct, or authorize a financial institution to debit or credit an account using the methods specified in the rules in this Section.
+(13)	"Fiscal Year" means July 1 through June 30.
+(14)	"Holiday" means a State Holiday or a Holiday recognized by the Federal Reserve. 
+(15)	"NACHA" means the National Automated Clearing House Association, the regulatory body for the ACH Network.
+(16)	"Payment by Merchant Card" means an electronic funds transfer initiated by a card-holder using a credit card or debit card accepted by the Department.
+(17)	"Payment Information" means the data that the Department requires of a taxpayer making an EFT payment and that must be communicated to the Data Collection Center or be provided in the TXP Banking Convention addenda record of an ACH Credit Transaction.
+(18)	"Reference Number" means the verification number provided by the Data Collection Center upon receipt of all payment information from the taxpayer that uniquely identifies the completed communication of payment information.
+(19)	"Settle" means a deposit of good funds into the State's bank account. Good funds are funds collected in the State's bank account that are usable immediately by the State.
+(20)	"Settlement Day or Date" means the day an EFT transaction settles.
+(21)	"Taxpayer" means any taxpayer required to remit an amount by electronic funds transfer. For the purpose of the rules in this Section, "taxpayer" includes any individual, firm, partnership, joint venture, association, corporation, estate, trust, business trust, receiver, syndicate, or other group or combination acting as a unit and includes any political subdivision, municipality, bureau, state agency, or institution within the University of North Carolina system. The term "taxpayer" does not include local school boards or community colleges.
+(22)	"Tax Type" means a tax that is subject to EFT, each of which shall be considered a separate category of payment.
+(23)	"Treasurer" or "State Treasurer" means the Treasurer of the State of North Carolina.
+(24)	"TXP Format" means the CCD+ Addenda record format to be used in ACH Credit transactions approved by Banker's EDI Council of the National Automated Clearing House Association and the Federation of Tax Administrators. This format is required by the Department when a taxpayer selects the ACH Credit payment method.
+
+History Note:	Authority G.S. 105-241; 105‑262;
+Eff. October 1, 1993;
+Amended Eff. June 1, 2007; November 1, 1994;
+Readopted Eff. July 1, 2017.
+

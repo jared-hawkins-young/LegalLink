@@ -1,0 +1,9 @@
+﻿SECTION .0500 - FORM OF PAYMENT
+
+17 NCAC 01C .0501	FORM OF PAYMENT
+This Section sets forth the rules to be used by the North Carolina Department of Revenue in the administration of G.S. 105‑241 empowering the Secretary of Revenue to require that tax payments be remitted in a specific form.  If there is a conflict between these Rules and any other rules applicable to specific form of payment, these Rules shall govern.
+
+History Note:	Authority G.S. 105‑241; 105‑262;
+Eff. October 1, 1993;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 20, 2016.
+

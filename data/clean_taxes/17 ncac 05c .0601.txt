@@ -1,0 +1,10 @@
+﻿SECTION .0600 ‑ TAXABLE IN ANOTHER STATE
+
+17 NCAC 05C .0601	PRELIMINARY STATEMENT
+A taxpayer must have income from business activity taxable by this state and at least one other state, to allocate and apportion income. Income from business activity includes apportionable or nonapportionable income. Thus, if a taxpayer has nonapportionable income taxable by one state and apportionable income taxable by another state, the taxpayer's income shall be allocated and apportioned in accordance with G.S. 105‑130.4. Where a corporation is not taxable in another state on its apportionable income but is taxable in another state only because of nonapportionable income, all apportionable income shall be attributed to this state.
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 2005;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+

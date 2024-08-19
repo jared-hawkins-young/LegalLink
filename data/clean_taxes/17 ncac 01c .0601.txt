@@ -1,0 +1,28 @@
+﻿section .0600 – substitute forms
+
+17 NCAC 01C .0601	APPROVAL REQUIRED FOR SUBSTITUTE FORMS
+(a)  Any person who reproduces a form of the Department for use by a taxpayer shall complete and return the Tax Software Provider Registration Form to enroll with the Department. The information required to be provided with the Software Provider Registration Form includes the following:
+(1)	Company name;
+(2)	Product name;
+(3)	National Association of Computerized Tax Processors (NACTP) member number;
+(4)	Company mailing address;
+(5)	Company website address/URL;
+(6)	Company federal employer identification number (FEIN);
+(7)	Primary individual tax forms contact phone;
+(8)	Primary individual tax forms contact email;
+(9)	Primary business tax forms contact phone;
+(10)	Primary business tax forms contact email;
+(11)	Type of software product;
+(12)	Tax types supported; and
+(13)	Tax forms and schedules supported.
+The Software Provider Registration Form is located on the Department's website at www.dornc.com.
+(b)  Upon receipt of a completed Software Provider Registration Form, the Department's Forms Coordinator will provide a person with a state substitute form vendor number and credentials to access the Software Developers Information site on the Department's website at www.dornc.com. The required grid layout and technical specifications for each form are available on the Software Developers Information site on the Department's website.
+(c)  Any person who reproduces a form of the Department for use by a taxpayer shall submit a draft of the substitute form to the Department each year for approval. The draft substitute form shall be submitted in portable document format (PDF) to SDFormsUpdate@dornc.gov.
+(d)  Upon receipt of the draft substitute form, the Department's Forms Coordinator will review the draft substitute form to verify the draft substitute form complies with the grid layout and technical specifications for that form. If the draft substitute form complies with the grid layout and technical specifications for that form, the Department's Forms Coordinator shall send a letter approving the substitute form for use by taxpayers. If the draft substitute form fails to comply with the required grid layout or technical specification for that form, the Department's Form Coordinator will return the draft substitute form for correction and resubmission to the Department's Forms Coordinator.
+(e)  A substitute form shall not be made available to the taxpayer until the substitute form is approved in accordance with Paragraph (d) of this Rule.
+
+History Note:	Authority G.S. 105-241; 105‑262;
+Eff. April 1, 1999;
+Amended Eff. July 1, 2000;
+Readopted Eff. July 1, 2017.
+

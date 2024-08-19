@@ -1,0 +1,727 @@
+﻿SUBCHAPTER 05C ‑ CORPORATE INCOME TAX
+
+SECTION .0100 ‑ CORPORATIONS SUBJECT TO THE TAX: TAX RATE AND ALLOCATION
+
+17 NCAC 05C .0101	DOMESTIC AND FOREIGN CORPORATIONS REQUIRED TO FILE
+(a)  A foreign corporation operating in North Carolina may be liable for income tax even if it is not required to obtain a certificate of authority to do business in North Carolina. 
+(b)  Even for a year in which a domestic corporation or a foreign corporation with a certificate of authority to do business in North Carolina conducted no business activity or did not earn any net income in the State, it must file an income tax return. Entities treated as corporations for federal income tax purposes are also subject to this requirement.
+
+History Note:	Authority G.S. 105-130.3; 105-130.4; 105-130.16; 105-262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 1994;
+Readopted Eff. May 1, 2018.
+
+17 NCAC 05C .0102	DOING BUSINESS DEFINED
+(a)  For income tax purposes, the term "doing business" means the operation of any business enterprise or activity in North Carolina for economic gain, including, but not limited to, the following:
+(1)	the maintenance of an office or other place of business in North Carolina;
+(2)	the maintenance in North Carolina of an inventory of merchandise or material for sale, distribution or manufacture, regardless of whether kept on the premises of the taxpayer or in a public or rented warehouse;
+(3)	the selling or distributing of merchandise to customers in North Carolina directly from a com­pany‑owned or operated vehicle when title to the merchandise is transferred from the seller or distributor to the customer at the time of the sale or distribution;
+(4)	the rendering of a service to clients or customers in North Carolina by agents or employees of a foreign corporation;
+(5)	the owning, renting, or operating of business or income‑producing property in North Carolina including, but not limited to, the following:
+(A)	Realty;
+(B)	Tangible personal property;
+(C)	Trademarks, tradenames, franchise rights, computer programs, copyrights, patented processes, licenses.
+(b)  Corporations who are partners in a partnership or joint venture operating in North Carolina are considered to be "doing business".
+(c)  "Doing business" by an interstate motor carrier is defined as the performance of any of the following business activities in North Carolina:
+(1)	The maintenance of an office in the State;
+(2)	The operation of a terminal or other place of business in the State;
+(3)	Having an employee working out of the office or terminal of another company;
+(4)	Dropping off or gathering up shipments in the State.
+
+History Note:	Authority G.S. 105‑130.3; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 1994; November 2, 1992;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .0103	CORPORATIONS OPERATING IN INTERSTATE COMMERCE
+The fact that a foreign corporation's activities or operations in North Carolina are a part of its over‑all interstate business does not exempt the corporation from income tax liability. A corporation doing business in North Carolina in any of the capacities outlined in Rule .0102 ("Doing Business" Defined) is subject to income tax even if its only operations in this state are a part of its interstate business. A foreign corporation not domesticated in North Carolina whose only activity in this state is the solicitation of sales of tangible personal property by either resident or nonresident salesmen is not required to file income tax returns. However, if such a corporation maintains an office or other place of business in North Carolina, or if it owns business property in this state, it is subject to the tax.
+
+History Note:	Authority G.S. 105‑130.3; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 1995; January 1, 1994;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .0104	TAX RATE AND BASIS FOR THE TAX
+17 NCAC 05C .0105	CORPORATIONS REQUIRED TO ALLOCATE INCOME
+17 NCAC 05C .0106	WHEN IN DOUBT AS TO LIABILITY
+17 NCAC 05C .0107	TAX FORMS MAILED TO TAXPAYER
+17 NCAC 05C .0108	DUE DATE OF RETURN
+
+History Note:	Authority G.S. 105‑130.3; 105‑130.4; 105‑130.17; 105‑130.22 through 105‑130.24; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. December 23, 1979; October 23, 1977;
+Repealed Eff. October 31, 1981.
+
+SECTION .0200 ‑ TAX CREDIT FOR DWELLING UNITS FOR HANDICAPPED PERSONS
+
+17 NCAC 05C .0201	PRELIMINARY STATEMENT
+17 NCAC 05C .0202	AMOUNT OF CREDIT ALLOWABLE
+17 NCAC 05C .0203	BUILDING CODE AND OTHER REQUIREMENTS
+
+History Note:	Authority G.S. 105‑130.22; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. October 4, 1979;
+Repealed Eff. October 31, 1981.
+
+SECTION .0300 ‑ COMPUTATION OF NET INCOME
+
+17 NCAC 05C .0301	PRELIMINARY STATEMENT
+17 NCAC 05C .0302	ADJUSTMENTS TO FEDERAL TAXABLE INCOME
+17 NCAC 05C .0303	MISCELLANEOUS
+
+History Note:	Authority G.S. 105‑130.3; 105‑130.5; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 1980; October 4, 1979; October 23, 1977;
+Repealed Eff. October 31, 1981.
+
+17 NCAC 05C .0304	ATTRIBUTION OF EXPENSES TO NONTAXABLE INCOME
+(a)  Direct Expenses ‑ All expenses directly connected with the production of income which is not subject to tax in this State shall be used to compute the net amount of such untaxed income.
+(b)  Interest Expenses ‑ When a corporation earns income which is not taxed by this State (see examples), or holds property that does or will produce untaxed income, and incurs interest expense which is not specifically related to any particular income or property, it shall attribute a portion of the interest expense to such untaxed income and property in determining taxable income reported to this State. The formula used for computing the amount of interest expense to be attributed to untaxed income and property is as follows:
+(1)	Value of assets:
+(A)	Value of the tax return balance sheet of assets which produce or which would produce untaxed income; *
+(B)	Value of all assets on the tax return balance sheet; **
+(C)	Determine the ratio or percentage of Subparagraphs (b)(1)(A) to (B) of this Rule.
+(2)	Income/Profits:
+(A)	Gross untaxed income;
+(B)	Total gross profits;
+(C)	Determine the ratio or percentage of Subparagraphs (b)(2)(A) to (B) of this Rule.
+(3)	Total of the ratios or percentages determined in Subparagraphs (b)(1) and (2) of this Rule;
+(4)	Divide the total of Subparagraph (b)(3) of this Rule by two;
+(5)	Apply average percentage determined in Subparagraph (b)(4) of this Rule to the total interest expense on the return filed in this state.
+(c)  Examples of Untaxed Income are:
+(1)	Dividend income classified as nonapportionable (G.S. 105-130.4);
+(2)	Dividend income excludable by statute (G.S. 105-130.5);
+(3)	Interest income classified as nonapportionable (G.S. 105-130.4);
+(4)	Interest income earned on United States obligations and state of North Carolina obligations;
+(5)	Other nonapportionable income or exempt income.
+(d)  Expenses Connected with Interest Income from United States Obligations ‑ Under G.S. 105‑130.5(b)(1), interest income from obligations of the United States or its possessions is excludable from North Carolina taxable income to the extent such income is included in federal taxable income. Expenses incurred in producing the exempt income must be determined and subtracted from the gross amount earned during a taxable period before the deduction is made in computing the state taxable income. In the computation of expenses related to income from United States obligations, the formula described in Paragraph (b) of this Rule may be used with respect to interest expense.
+(e)  Other Expenses Attributed to Nontaxable Income and to Nonapportionable Income and Property ‑ In the determination of expenses other than interest expense attributed to untaxed income, the procedure set forth in the Federal Code for determining expenses related to foreign source income generally referred to as stewardship and supportive expenses may be used to determine the expenses allocated to untaxed income and property producing or which would produce untaxed income. Alternatively, an income formula as outlined in Paragraph (b)(2) of this Rule relating to interest expenses may be used to determine the amount of supportive function expenses attributable to untaxed income. In the determination of "supportive function expenses", direct expenses incurred exclusively in a specific identifiable taxable or nontaxable activity shall be determined and excluded before application of the attribution percentage to expenses. If direct expenses are determinable for a particular activity resulting in an accurate computation of the net income or loss from such activity, the values of this activity shall be removed as elements of the ratio when computing the attribution percentage.
+
+Note: * When the equity method of accounting is used, the increase or decrease in value as a result of such accounting method may be excluded from this value.
+
+Note: ** Equity included in this value may be excluded and the reserve for depreciation reflected on the balance sheet may be restored to the asset value.
+
+History Note:	Authority G.S. 105-130.4; 105-130.5; 105-262;
+Eff. April 1, 1991;
+Amended Eff. August 1, 2005; January 1, 2005; January 1, 1994;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+SECTION .0400 ‑ INTEREST INCOME ON GOVERNMENT OBLIGATIONS
+
+17 NCAC 05C .0401	NORTH CAROLINA OBLIGATIONS
+Net interest income received by a corporation on obligations of the State of North Carolina and any of its cities, towns or counties is exempt from income taxes imposed by this state.
+
+History Note:	Authority G.S. 105‑130.5; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. April 1, 1991;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .0402	OBLIGATIONS OF OTHER STATES
+Net interest income earned by a corporation on its investments in obligations issued by states and their political subdivisions other than the State of North Carolina, represents taxable income and is subject to this state's income tax.
+
+History Note:	Authority G.S. 105‑130.5; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. April 1, 1991;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .0403	U.S. OBLIGATIONS
+(a)  Net interest income earned on bonds, notes, or other obligations of the United States or its possessions is exempt from income taxation in this State so long as interest on obligations of the State of North Carolina and its political subdivisions is exempt from income taxes imposed by the United States. For the interest income to be deductible, the obligation shall be in writing, bear interest, be a binding promise by the United States to pay specific amounts at specific dates, and be specifically authorized by Congress.
+(b)  Net interest from obligations that are backed, insured, or guaranteed by the United States, but are not direct obligations of the United States Government, shall not be deductible.
+
+History Note:	Authority G.S. 105-130.5; 105-262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 1995; April 1, 1991; October 23, 1977;
+Readopted Eff. May 1, 2018.
+
+17 NCAC 05C .0404	SALES OR EXCHANGES
+(a)  Gain or loss realized on the sale or other disposition of any type of obligation of the United States or its possessions, the State of North Carolina (not exempted by the specific obligation), or its political subdivisions, any other state or its political subdivisions, or of any other government is a taxable transaction and must be included in the computation of a corporation's state taxable income.
+(b)  Gain or loss realized on the sale or other disposition of obligations is not included in taxable income if North Carolina law under which obligations were issued specifically exempts the gain from taxation.
+
+History Note:	Authority G.S. 105‑130.5; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 1995;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .0405	OBLIGATIONS OF FEDERAL NATIONAL MORTGAGE ASSOCIATION
+Interest income or other income realized on obligations of Federal National Mortgage Association is taxable income since the obligations are not those of the United States.
+
+History Note:	Authority G.S. 105-130.5; 105‑262;
+Eff. October 23, 1977;
+Amended Eff. January 1, 1994;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .0406	MORTGAGE BACKED CERTIFICATE GUARANTEED BY GNMA
+Interest paid by the issuer to the holder of a mortgage backed certificate guaranteed by Government National Mortgage Association (GNMA) is not income from an obligation of the United States and is taxable.
+
+History Note:	Authority G.S. 105‑130.5; 105‑262;
+Eff. October 23, 1977;
+Amended Eff. January 1, 1994;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .0407	REPURCHASE AGREEMENTS
+Income attributable to or received from repurchase agreements of U.S. government securities, an agreement to repurchase securities at an agreed price and date, is not considered income derived directly from federal obligations and is taxable income.
+
+History Note:	Authority G.S. 105-130.5; 105-262;
+Eff. November 2, 1992;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+SECTION .0500 ‑ ALLOCATION AND APPORTIONMENT PROCEDURES
+
+17 NCAC 05C .0501	PRELIMINARY STATEMENT
+17 NCAC 05C .0502	REPORTING NET INCOME OR LOSS TO NORTH CAROLINA
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Repealed Eff. October 31, 1981.
+
+SECTION .0600 ‑ TAXABLE IN ANOTHER STATE
+
+17 NCAC 05C .0601	PRELIMINARY STATEMENT
+A taxpayer must have income from business activity taxable by this state and at least one other state, to allocate and apportion income. Income from business activity includes apportionable or nonapportionable income. Thus, if a taxpayer has nonapportionable income taxable by one state and apportionable income taxable by another state, the taxpayer's income shall be allocated and apportioned in accordance with G.S. 105‑130.4. Where a corporation is not taxable in another state on its apportionable income but is taxable in another state only because of nonapportionable income, all apportionable income shall be attributed to this state.
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 2005;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .0602	DEFINITION OF TAXPAYER
+The word "taxpayer" includes any corporation subject to the tax imposed by Article 4 of Chapter 105 of the General Statutes.
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .0603	IN GENERAL
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Repealed Eff. October 1, 1993.
+
+17 NCAC 05C .0604	WHEN A TAXPAYER IS SUBJECT TO TAX
+(a)  If the taxpayer voluntarily files and pays an income tax to a state other than North Carolina when not required to do so by the laws of that state or pays a minimal fee for qualification, organization or for the privilege of doing business in that state, but does not actually engage in business activities in that state, or does actually engage in some activity, not sufficient for nexus, and the minimum tax bears no relation to the corporation's activities within such state, the taxpayer is not subject to tax within that state and is therefore not taxable in another state. The filing of a unitary‑combined return in another state with other related corporations does not standing alone constitute business activity for purposes of determining if a corporation is subject to income tax in this State is allowed to allocate and apportion income.
+(b)  In some states other types of taxes may be imposed as a substitute for an income tax. Therefore, only income tax or any tax measured by net income, shall be considered in determining whether the taxpayer is taxable in another state.
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 1994; November 2, 1992; October 31, 1981;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .0605	WHEN A STATE HAS JURISDICTION
+In the case of any "state," as defined in G.S. 105‑130.4, other than a state of the United States or political subdivision of such state, the determination of whether such "state" has jurisdiction to subject the taxpayer to a net income tax shall be made as though the jurisdictional standards applicable to a state of the United States applied in that "state." If jurisdiction is otherwise present, such "state" is not considered as without jurisdiction by reason of the provisions of a treaty between that state and the United States.
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 1994; October 31, 1981;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+SECTION .0700 ‑ APPORTIONABLE AND NONAPPORTIONABLE INCOME
+
+17 NCAC 05C .0701	DIVISION OF INCOME: IN GENERAL
+(a)  When a taxpayer has income from sources within this state as well as income from sources outside this state, the division of income and the resulting determination of the portion of the taxpayer's entire net income which has its source in this state shall be determined pursuant to the allocation and apportionment provisions set forth in G.S. 105‑130.4 and these Rules. The taxpayer shall determine which portion of its entire net income constitutes "apportionable income" and which portion constitutes "nonapportionable income". The various items of nonapportionable income shall be directly allocated to specific jurisdictions pursuant to the provisions of Subsections (d) to (h) of G.S. 105‑130.4. The apportionable income of the taxpayer other than public utilities and excluded corporations shall be divided between the jurisdictions in which the business is conducted pursuant to the property, payroll and sales apportionment factors set forth in Subsections (i) to (l) of G.S. 105-130.4. The sum of the items of nonapportionable income directly allocated to this state, plus the amount of apportionable income attributable to this state by the apportionment formula shall constitute the amount of the taxpayer's entire net income which is subject to tax under the income tax laws of this state.
+(b)  The taxpayer shall classify income as apportionable or nonapportionable income on a consistent basis. In the event the taxpayer is not consistent in reporting, it shall disclose in its return to this state the nature and extent of the inconsistency.
+(c)  The word "apportionment" refers to the division of net income between jurisdictions by the use of a formula containing apportionment factors, and the word "allocation" refers to the assignment of net income to a particular jurisdiction.
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 2005; January 1, 1994;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .0702	BUSINESS AND NONBUSINESS INCOME DEFINED
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 1994;
+Repealed Eff. July 1, 2000.
+
+17 NCAC 05C .0703	BUSINESS AND NONBUSINESS INCOME
+
+History Note:	Authority G.S. 105‑130.4; 105‑262.
+Eff. February 1, 1976;
+Amended Eff. August 1, 2002; July 1, 2000; July 1, 1999; January 1, 1994; April 1, 1991; October 31, 1981;
+Repealed Eff. August 1, 2003.
+
+17 NCAC 05C .0704	PRORATION OF DEDUCTIONS
+Any allowable deduction that is applicable both to apportionable and nonapportionable income or to more than one "trade or business" of the taxpayer shall be prorated to those classes of income or trades or businesses in determining income subject to tax. The taxpayer shall be consistent in the proration of such deduction or deductions in filing returns under these Rules.
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 2005; January 1, 1994;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+SECTION .0800 ‑ PROPERTY FACTOR
+
+17 NCAC 05C .0801	IN GENERAL
+(a)  The property factor as provided in G.S. 105-130.4 shall include all real and tangible personal property owned or rented and used during the income year to produce apportionable income. The term "real and tangible personal property" includes land, buildings, machinery, stocks of goods, equipment, and other real and tangible personal property used in connection with the production of apportionable income but does not include coin or currency. 
+(b)  Property used in connection with the production of nonapportionable income that is allocated in accordance with Subsection (c) to (h) of G.S. 105-130.4 shall be excluded from the factor.
+(c)  Property used in connection with the production of both apportionable and nonapportionable income shall be included in the factor only to the extent the property was used in connection with the production of apportionable income.
+
+History Note:	Authority G.S. 105-130.4; 105-262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 2005; January 1, 1994;
+Readopted Eff. May 1, 2018.
+
+17 NCAC 05C .0802	PROPERTY USED FOR THE PRODUCTION OF APPORTIONABLE INCOME
+Property shall be included in the property factor if it is actually used during the income year for the production of apportionable income. Property held as reserves or standby facilities or property held as a reserve source of materials shall be included in the factor. For example, a plant temporarily idle or raw material reserves not currently being processed are includible in the factor. Property or equipment under construction during the income year (except inventoriable goods in process) shall be excluded from the factor until such property is actually used for the production of apportionable income. If the property is partially used for the production of apportionable income while under construction, the value of the property to the extent used shall be included in the property factor.
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 2005;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .0803	CONSISTENCY IN REPORTING
+The taxpayer shall be consistent in the valuation of property and in excluding or including property in the property factor in filing returns with this state. In the event the taxpayer is not consistent in its reporting, it shall disclose in its return to this state the nature and extent of the inconsistency.
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .0804	NUMERATOR
+(a)  Property in transit between locations of the taxpayer to which it belongs shall be considered to be at the destination for purposes of the property factor. Property in transit between a buyer and seller which is included by a taxpayer in the denominator of its property factor in accordance with its regular accounting practices shall be included in the numerator according to the state of destination.
+(b)  The value of mobile or movable property such as construction equipment, trucks or leased electronic equipment which are located within and without this state during the income year shall be determined for purposes of the numerator of the factor on the basis of total time within the state during the income year. An automobile assigned to a traveling employee shall be included in the numerator of the factor of the state to which the employee's compensation is assigned under the payroll factor or in the numerator of the state in which the automobile is licensed.
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 1994;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .0805	VALUATION OF OWNED PROPERTY
+(a)  In determining the property factor in G.S. 105-130.4, property owned by the taxpayer shall be valued at its original cost:
+(1)	"Original cost" of property which has a basis other than zero for federal income tax purposes equals the basis of the property for federal income tax purposes at the time of acquisition by the taxpayer and adjusted by subsequent capital additions or improvements thereto and partial disposition thereof, by reason of sale, exchange, abandonment, or any other type of disposition.
+(2)	"Original cost" of property which has a zero basis for federal income tax purposes shall equal the taxpayer's actual cost of the property at the time of acquisition; provided, however, if the actual cost is unknown, the "original cost" shall equal the fair market value of the property, or, at the option of the taxpayer, eight times the net annual rental rate as described in G.S. 105-130.4(j)(2). The valuation method chosen by the taxpayer must be used consistently thereafter.
+(b)  Inventory of stock of goods shall be included in the factor in accordance with the valuation method used for federal income tax purposes.
+(c)  Property acquired by gift or inheritance shall be included in the factor at its basis for determining depreciation for federal income tax purposes.
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. December 1, 1994; January 1, 1994; October 31, 1981;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .0806	RENTED PROPERTY
+17 NCAC 05C .0807	AVERAGING PROPERTY VALUES
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Repealed Eff. October 31, 1981.
+
+SECTION .0900 ‑ PAYROLL FACTOR
+
+17 NCAC 05C .0901	IN GENERAL
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Repealed Eff. November 1, 1993.
+
+17 NCAC 05C .0902	PAYROLL ACCOUNTING METHOD
+(a)  The total amount "paid" to employees is determined upon the basis of the taxpayer's accounting method. If the taxpayer has adopted the accrual method of accounting, all compensation properly accrued shall be deemed to have been paid. Not withstanding the taxpayer's method of accounting, at the election of the taxpayer, compensation paid to employees may be included in the payroll factor by use of the cash method if the taxpayer is required to report such compensation under such method for unemployment compensation purposes.
+(b)  The taxpayer shall be consistent in the treatment of compensation paid in filing returns with this state. In the event the taxpayer is not consistent in its reporting it shall disclose in its return to this state the nature and extent of the inconsistency.
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .0903	COMPENSATION
+Payments made to an independent contractor or any other person not classifiable as an employee are excluded from the term "compensation" for purposes of G.S. 105-130.4. Only amounts paid directly to employees are included in the payroll factor. Amounts considered paid directly include the value of board, rent, housing, lodging and other benefits or services furnished to employees by the taxpayer in return for personal services provided that such amounts constitute income to the recipient under the Federal Internal Revenue Code. In the case of employees not subject to the Federal Internal Revenue Code, e.g., those employed in foreign countries, the determination of whether such benefits or services constitute income to the employees shall be made as though such employees were subject to the Federal Internal Revenue Code.
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 1994;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .0904	THE TERM EMPLOYEE
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Repealed Eff. November 1, 1993.
+
+17 NCAC 05C .0905	INCLUDE IN PAYROLL FACTOR
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Repealed Eff. October 31, 1981.
+
+17 NCAC 05C .0906	DENOMINATOR OF PAYROLL FACTOR
+Except for compensation paid to general executive officers and compensation paid in connection with nonapportionable income the denominator of the payroll factor is the total compensation paid everywhere during the income year. Accordingly, compensation paid to employees whose services are performed entirely in a state where the taxpayer is exempt from taxation, for example, by Public Law 86‑272, is included in the denominator of the payroll factor.
+Note: A taxpayer has employees in its state of legal domicile (State A) and is taxable in State B. In addition the taxpayer has other employees whose services are performed entirely in State C where the taxpayer is exempt from taxation by Public Law 86‑272. As to these latter employees, the compensation will be assigned to State C where their services are performed (i.e. included in the denominator only of the payroll factor) even though the taxpayer is not taxable in State C.
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 2005; October 31, 1981;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .0907	NUMERATOR OF PAYROLL FACTOR
+Except for compensation paid to general executive officers and compensation paid in connection with nonapportionable income, for purposes of G.S. 105-130.4, the numerator of the payroll factor is the total amount paid in this State during the tax period by the taxpayer for compensation. In determining the payroll factor, information used to file federal forms 941 and the North Carolina Tax and Wage Reports may be used if the amounts can be reconciled to the amounts used for the payroll factor. If compensation paid to employees is included in the payroll factor by use of the cash method of accounting or if the taxpayer is required to report such compensation under such method for unemployment compensation purposes, it shall be presumed that the total wages reported by the taxpayer to this State for unemployment compensation purposes constitutes compensation paid in this State except for compensation excluded under G.S. 105-130.4(k). The presumption may be overcome by satisfactory evidence that an employee's compensation is not reportable to this State for unemployment compensation purposes.
+
+History Note:	Authority G.S. 105-130.4; 105-262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 2005; January 1, 1994; October 31, 1981;
+Readopted Eff. May 1, 2018.
+
+17 NCAC 05C .0908	CORPORATIONS UTILIZING COMMON PAYMASTER
+(a)  A parent corporation or any corporation serving as common paymaster for payroll purposes shall eliminate all payroll amounts paid on behalf of controlled members for which it has charged such member the exact cost and which does not meet the definition of compensation insofar as the common paymaster is concerned from the numerator and denominator of its payroll factor computation. The numerator and denominator of the payroll factor shall be determined in accordance with G.S. 105-130.4 after elimination of the described amounts.
+(b)  A subsidiary or otherwise controlled corporation, which is a member of or participant in a common paymaster plan for payroll purposes, shall include in its numerator and denominator of the payroll factor computation amounts paid to its parent corporation or to another corporation of the controlled group as reimbursement in whatever form and by whatever label for employee's compensation as defined. The amounts paid by the subsidiary or controlled corporation includable in the numerator and the denominator of the payroll factor shall be determined in accordance with G.S. 105-130.4.
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. November 1, 1991;
+Amended Eff. January 1, 1994;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+SECTION .1000 ‑ SALES FACTOR
+
+17 NCAC 05C .1001	SALES MADE IN GENERAL BUSINESS OPERATIONS
+For purposes of G.S. 105-130.4, `sales' by a taxpayer whose business activity consists of manufacturing and selling or purchasing and reselling goods or products includes all gross receipts from the sales of such goods or products (or other property of a kind which would properly be included in the inventory of the taxpayer if on hand at the close of the taxable year) held by the taxpayer primarily for sale to customers in the ordinary course of its trade or business. Gross receipts for this purpose means gross sales, less returns and allowances, and includes all interest income, service charges, carrying charges or time‑price differential charges incidental to such sales. Federal and state excise taxes (including sales taxes) shall be included as part of such receipts if such taxes are passed on to the buyer or included as part of the selling price of the product.
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 1994;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .1002	SALES INCIDENTAL TO GENERAL BUSINESS OPERATIONS
+(a)  The term "sales" also includes gross receipts derived by a taxpayer from business transactions or activities which are incidental to its principal business activity and which are includible in apportionable income. However, substantial amounts of gross receipts arising from an incidental or occasional sale of a fixed asset used in connection with the taxpayer's regular trade or business will be excluded from the sales factor since such sales constitute a "casual sale" of property and the inclusion of such gross receipts will not fairly apportion to this state the income derived by the taxpayer from its business activity in this state. Gross receipts from casual sales are considered substantial if they cause the sales factor to be distorted. For example, gross receipts from the sale of a factory or plant will be excluded from the sales factor.
+(b)  In including or excluding gross receipts, the taxpayer shall be consistent in the treatment of such gross receipts in filing returns with this state. In the event the taxpayer is not consistent in its reporting, it shall disclose in its return to this state the nature and extent of the inconsistency.
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 2005;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .1003	SALES MADE IN OTHER TYPE OF BUSINESS ACTIVITY
+As applied to a taxpayer engaged in business activity other than the manufacturing and selling or purchasing and reselling of property, "sales" includes the gross receipts as defined in Rule .1001 of this Section (Sales Made In General Business Operations):
+(1)	If the business activity consists of providing services; such as the operation of an advertising agency, or the performance of equipment service contracts or research and development contracts, "sales" includes the gross receipts from the performance of such services including fees, commissions, and similar items.
+(2)	In the case of cost plus fixed fee contracts, such as the operation of a government‑owned plant for a fee, gross receipts includes the entire reimbursed cost, plus the fee.
+(3)	If the business activity is the renting of real or tangible personal property, "sales" includes the gross receipts from the rental, lease, or licensing the use of the property.
+(4)	If the business activity is the sale, assignment, or licensing of intangible personal property such as patents and copyrights, "sales" includes the gross receipts therefrom.
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 1994;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .1004	NUMERATOR
+The numerator of the sales factor will include the gross receipts from sales which are attributable to this state, and includes all interest income, service charges, carrying charges, or time‑price differential charges incidental to such sales regardless of the place where the accounting records are maintained or the location of the contract or other evidence of indebtedness.
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. October 31, 1981;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .1005	WHAT SALES OF TANGIBLE PERSONAL PROPERTY ARE IN THIS STATE
+(a)  Gross receipts from the sales of tangible personal property are in this state if the property is delivered or shipped to a purchaser within this state regardless of the f.o.b. point or other conditions of sale.
+(b)  Property shall be deemed to be delivered or shipped to a purchaser within this state if the recipient is located in this state, even though the property is ordered from outside this state.
+(c)  Property is delivered or shipped to a purchaser within this state if the shipment terminates in this state, even though the property is subsequently transferred by the purchaser to another state.
+(d)  The term "purchaser within this state" shall include the ultimate recipient of the property if the taxpayer in this state, at the designation of the purchaser, delivers to or has the property shipped to the ultimate recipient within this state.
+(e)  When property being shipped by a seller from the state of origin to consignee in another state is diverted while enroute to a purchaser in this state the sales are in this state.
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. October 31, 1981;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .1006	SALES FACTOR: SALES TO UNITED STATES GOVERNMENT
+(a)  For the purposes of G.S. 105-130.4, gross receipts from the sales of tangible personal property to the United States Government are in this state if the property is shipped to or received or accepted by the United States Government in this state. For the purpose of this Rule, only sales for which the United States Government makes direct payment to the seller pursuant to the terms of its contract constitute sales to the United States Government. Thus, sales by a subcontractor to the prime contractor, the party to the contract with the United States Government, do not constitute sales to the United States Government.
+(b)  When the United States Government is the purchaser of property which remains in the possession of the taxpayer in this state for further processing under another contract, or for other reasons, "shipment" is deemed to be made at the time of acceptance by the United States Government.
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 1994; October 31, 1981;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .1007	NUMERATOR: OTHER RECEIPTS CONSTITUTING BUSINESS INCOME
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Repealed Eff. October 31, 1981.
+
+SECTION .1100 ‑ PUBLIC UTILITIES AND EXCLUDED CORPORATIONS APPORTIONMENT FACTORS
+
+17 NCAC 05C .1101	RAILROAD COMPANIES
+17 NCAC 05C .1102	TELEPHONE COMPANIES
+17 NCAC 05C .1103	MOTOR CARRIERS OF PROPERTY AND/OR PASSENGERS
+17 NCAC 05C .1104	TELEGRAPH COMPANIES
+17 NCAC 05C .1105	EXCLUDED CORPORATIONS
+
+History Note:	Authority G.S. 105‑130.4; 105‑262;
+Eff. February 1, 1976;
+Repealed Eff. October 31, 1981.
+
+SECTION .1200 ‑ DEDUCTION OF CONTRIBUTIONS
+
+17 NCAC 05C .1201	PRELIMINARY STATEMENT
+17 NCAC 05C .1202	CHARITABLE CONTRIBUTIONS DEFINED AND QUALIFIED DONEES
+17 NCAC 05C .1203	CONTRIBUTIONS LIMITED TO FIVE PERCENT OF NET INCOME
+17 NCAC 05C .1204	CONTRIBUTIONS FULLY DEDUCTIBLE
+17 NCAC 05C .1205	CONTRIBUTIONS BY CORPORATIONS ALLOCATING NET INCOME
+17 NCAC 05C .1206	CONTRIBUTIONS CARRY‑OVER UNALLOWABLE
+
+History Note:	Authority G.S. 105‑130.9; 105‑202; 105‑262;
+Eff. February 1, 1976;
+Repealed Eff. October 31, 1981.
+
+SECTION .1300 ‑ RAPID AMORTIZATION OF AIR OR WATER POLLUTION ABATEMENT FACILITIES
+
+17 NCAC 05C .1301	AMORTIZATION OVER 60 MONTH PERIOD
+17 NCAC 05C .1302	CERTIFICATION OF FACILITIES REQUIRED
+
+History Note:	Authority G.S. 105‑130.10; 105‑262;
+Eff. February 1, 1976;
+Repealed Eff. October 31, 1981.
+
+SECTION .1400 ‑ AMORTIZATION OF BOND PREMIUMS
+
+17 NCAC 05C .1401	PRELIMINARY STATEMENT
+If a corporation purchases a bond at more than its face value, the amount of premium paid may be amortized over the life of the bond. However, the allowance of a deduction against net income for amortization of the premium paid depends upon the type of bond purchased by the corporation. For example:
+(1)	Amortization of premiums on tax‑exempt bonds by a corporation is mandatory with no deduction allowed in computing state net income.
+(2)	A corporation may at its option amortize the amount of premiums paid on taxable bonds over the life of the bonds. If the premium is not amortized by the corporation, it will constitute part of the basis of the bond in determining gain or loss at maturity of sale.
+(3)	For state income tax purposes, obligations of the United States or its possessions and obligations of the State of North Carolina or any of its subdivisions are tax‑exempt. Interest income received by a corporation on such obligations is not taxable; however, a corporation must include in its computation of state net income any gain or loss realized on the disposal of such obligations.
+(4)	Premiums paid on all bonds acquired prior to January 1, 1963 cannot be amortized but constitute a part of the cost basis of the bonds in determining gain or loss when the bonds are sold.
+
+History Note:	Authority G.S. 105‑130.5; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 1994;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .1402	TAX‑EXEMPT BONDS
+The amount of premium paid upon the purchase of a tax‑exempt bond is amortized over the life of the bond. Amortization for the taxable year is accomplished by reducing the original cost of the bond by a portion of the premium paid, with no deduction against net income for the year. Therefore, when the bond is sold or otherwise disposed of, the basis for determining gain or loss will always be original cost less the amount of premium amortized for book purposes through the year of disposal.
+
+History Note:	Authority G.S. 105‑130.5; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. October 31, 1981;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .1403	TAXABLE BONDS
+A portion of the premium paid upon the purchase of a taxable bond may be deducted in the taxable year only if an adjustment is made to the basis of the bond. If a taxpayer elects to amortize the premium, the basis for determining gain or loss will always be original cost less the amount of premium amortized and deducted in its tax returns through the year of disposal. Otherwise, the basis of a taxable bond for determining gain or loss will always be the entire amount paid for the bond.
+
+History Note:	Authority G.S. 105‑130.5; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. October 31, 1981;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .1404	DEFINITION OF BOND
+The term "bond" means any bond, debenture, note or certificate or other evidence of indebtedness issued by any corporation and bearing interest and includes any like obligation issued by any government or political subdivision thereof.
+
+History Note:	Authority G.S. 105‑130.5; 105‑262;
+Eff. February 1, 1976;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+SECTION .1500 ‑ NET ECONOMIC LOSS CARRY‑OVER
+
+17 NCAC 05C .1501	PRELIMINARY STATEMENT
+17 NCAC 05C .1502	DIFFERENCES BETWEEN NORTH CAROLINA AND FEDERAL PROVISIONS
+17 NCAC 05C .1503	DEFINITION OF NET ECONOMIC LOSS
+17 NCAC 05C .1504	INCOME NOT TAXABLE
+17 NCAC 05C .1505	PROCEDURE FOR DEDUCTING A NET ECONOMIC LOSS
+
+History Note:	Authority G.S. 105‑130.8; 105‑262;
+Eff. February 1, 1976;
+Repealed Eff. October 31, 1981.
+
+17 NCAC 05C .1506	CORPORATIONS APPORTIONING THEIR NET INCOME
+A corporation required to apportion its net income or net loss under G.S. 105-130.4 may carry forward only a portion of its State net loss. For example, a corporation apportioning 50 percent of its net income or loss to North Carolina in a particular year in which it sustains a total State net loss of one thousand dollars ($1,000.00) may carry forward only five hundred dollars ($500.00) to a subsequent year.
+
+History Note:	Authority G.S. 105-130.8; 105-130.8A; 105-262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 2005;
+Readopted Eff. May 1, 2018.
+
+17 NCAC 05C .1507	CORPORATION SUSTAINING LOSS ENTITLED TO DEDUCTION
+
+History Note:	Authority G.S. 105‑130.8; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 1994; October 31, 1981; April 1, 1979;
+Expired Eff. September 1, 2017 pursuant to G.S. 150B-21.3A.
+
+SECTION .1600 ‑ TRANSACTIONS BETWEEN AFFILIATED CORPORATIONS
+
+17 NCAC 05C .1601	PRELIMINARY STATEMENT
+17 NCAC 05C .1602	DEDUCTIONS FOR PAYMENTS TO AND CHARGES BY
+17 NCAC 05C .1603	CONSOLIDATED RETURNS
+17 NCAC 05C .1604	REQUIRED TO FURNISH INFORMATION REQUESTED BY SECRETARY
+17 NCAC 05C .1605	DEFINITIONS
+17 NCAC 05C .1606	TRANSACTIONS CLOSELY EXAMINED BY THE DEPARTMENT
+
+History Note:	Authority G.S. 105‑130.6; 105‑262;
+Eff. February 1, 1976;
+Repealed Eff. October 31, 1981.
+
+SECTION .1700 ‑ PARTNERSHIPS AND THE CORPORATE PARTNER
+
+17 NCAC 05C .1701	REPORTING PARTNERSHIP NET INCOME
+A corporation which is a member of a partnership or joint venture doing business in North Carolina is subject to North Carolina income tax and is required to include in the total net income subject to apportionment and allocation its share of the partnership's net income or net loss to the same extent required for federal income tax purposes.
+
+History Note:	Authority G.S. 105‑130.3; 105‑262;
+Eff. February 1, 1976;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .1702	APPORTIONABLE INCOME OR NONAPPORTIONABLE INCOME
+Income shall be classified as nonapportionable income where the corporate partner limits its connection to the partnership to the investment of funds or property and does not regularly or materially participate in the day-to-day operation of the partnership. Where the business of the partnership is directly or integrally related to the business of the corporate partner, the corporate partner's share of the partnership net income is classified as apportionable income. When classified as apportionable income, the corporate partner's apportionment factors shall include its proportionate share of the partnership's property, payroll, and sales. If the income is classified as nonapportionable income, it shall be included in the corporate partner's net taxable income and allocated in accordance with the allocation provisions of G.S. 105-130.4.
+
+History Note:	Authority G.S. 105-130.4; 105-262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 2005; January 1, 1994; October 31, 1981;
+Readopted Eff. May 1, 2018.
+
+SECTION .1800 ‑ COMPUTING TAXABLE PERCENTAGES ON DIVIDENDS
+
+17 NCAC 05C .1801	TAXABLE PERCENTAGES/DIVIDENDS
+17 NCAC 05C .1802	NO RETURN FILED IN YEAR ENDED SEPTEMBER 30
+17 NCAC 05C .1803	TWO RETURNS FILED BY A CORPORATION DURING TWELVE MONTH PERIOD
+17 NCAC 05C .1804	CHANGE IN NAME OR IN STATE OF INCORPORATION
+17 NCAC 05C .1805	AMENDED AND ADJUSTED RETURNS
+17 NCAC 05C .1806	MERGERS
+
+History Note:	Authority G.S. 105‑130.7; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 1994; April 1, 1991;
+Repealed Eff. December 1, 1997.
+
+SECTION .1900 ‑ FILING OF RETURNS AND PAYMENT OF TAXES
+
+17 NCAC 05C .1901	TIME AND PLACE FOR FILING
+17 NCAC 05C .1902	EXTENSION OF FILING DATE
+17 NCAC 05C .1903	PAYMENT OF TAXES
+
+History Note:	Authority G.S. 105‑130.17; 105‑130.19; 105‑262; 105‑263;
+Eff. February 1, 1976;
+Amended Eff. January 1, 1978;
+Repealed Eff. October 31, 1981.
+
+17 NCAC 05C .1904	OVERPAYMENTS APPLIED TO NEXT YEAR
+(a)  A corporation may elect to have an income tax refund applied to estimated income tax for the following tax year. A return reflecting an election to apply a refund to estimated tax for the following year must be filed by the last allowable date for making estimated tax payments for that year for the election to be valid.
+(b)  If a corporation makes a valid election, that corporation may not revoke the election after the return has been filed in order to have the amount refunded or applied in any other manner, such as an offset against any subsequently determined tax liability.
+
+History Note:	Authority G.S. 105-163.39; 105-163.40; 105-262;
+Eff. March 1, 2006;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05c .1905	electronic filing of corporation income tax returns
+The Department of Revenue participates in the Federal/State Electronic Filing Program and accepts corporation income tax returns filed under that program.
+
+History Note:	Authority G.S. 105‑262;
+Eff. March 1, 2006;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+SECTION .2000 ‑ EXTENSION OF TIME FOR FILING RETURN
+
+17 NCAC 05C .2001	AUTOMATIC EXTENSION
+17 NCAC 05C .2002	APPLICATION FOR AN ADDITIONAL EXTENSION
+
+History Note:	Authority G.S. 105‑263; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. November 1, 1987; October 23, 1977;
+Repealed Eff. April 1, 1991.
+
+17 NCAC 05C .2003	INTEREST AND PENALTIES
+
+History Note:	Authority G.S. 105‑236; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. November 2, 1992; October 23, 1977;
+Repealed Eff. July 1, 2000.
+
+17 NCAC 05C .2004	EXTENSION OF FILING DATE
+For tax years beginning before January 1, 2008, a corporation will receive a seven-month extension of time to file its corporate franchise and income tax return if the corporation timely files Form CD-419, Application for Extension of Time To File Corporate Franchise and Income Tax Return. For tax years beginning on or after January 1, 2008, the extension of time is six months. Payment of tax is not required to obtain an extension; however, interest accrues at the rate set under G.S. 105-241.21(a) on the amount not paid by the original due date of the corporate franchise and income tax return and the failure to pay penalty in G.S. 105-236(4) applies to the amount not paid by the original due date of the return.
+
+History Note:	Authority G.S. 105‑262; 105‑263;
+Eff. April 1, 1999;
+Amended Eff. January 1, 2009; July 1, 1999; January 1, 1994;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+SECTION .2100 ‑ DISSOLUTIONS AND WITHDRAWALS
+
+17 NCAC 05C .2101	REQUIREMENTS WHEN CORPORATION ENDS
+A domestic corporation that is dissolved, whether voluntarily, administratively, or judicially, or a foreign corporation that withdraws from the State or has its certificate of authority revoked must file all tax reports and returns due and pay all taxes due. The final return of a corporation that has been dissolved, has withdrawn, or has had its certificate of authority revoked must include in income any unrealized or unreported profit from installment sales.
+
+History Note:	Authority G.S. 55‑14‑01; 55-14-20; 55-14-30; 55-15-20; 55-15-30; 105-130.16; 105‑262.
+Eff. February 1, 1976;
+Amended Eff. July 1, 1999; April 1, 1997; January 1, 1995; January 1, 1994; November 1, 1991; April 1, 1991;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .2102	WITHDRAWALS/FILING REQUIREMENTS
+
+History Note:	Authority G.S. 55‑15‑20; 105-130.15; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 1994; November 1, 1991; April 1, 1991;
+Repealed Eff. July 1, 1999.
+
+SECTION .2200 ‑ EXEMPT CORPORATIONS
+
+17 NCAC 05C .2201	PRELIMINARY STATEMENT
+17 NCAC 05C .2202	CORPORATIONS FULLY EXEMPT
+17 NCAC 05C .2203	CORPORATIONS CONDITIONALLY OR PARTIALLY EXEMPT
+17 NCAC 05C .2204	EXCEPTIONS TO EXEMPTION
+17 NCAC 05C .2205	REGULATED INVESTMENT COMPANIES
+17 NCAC 05C .2206	PROOF OF EXEMPTION
+17 NCAC 05C .2207	NOTIFICATIONS OF CHANGE IN PURPOSES OR OPERATIONS
+
+History Note:	Authority G.S. 105‑130.11; 105‑130.12; 105‑262;
+Eff. February 1, 1976;
+Repealed Eff. October 31, 1981.
+
+SECTION .2300 ‑ REPORTING FEDERAL CHANGES
+
+17 NCAC 05C .2301	REQUIREMENT FOR REPORTING CHANGES
+17 NCAC 05C .2302	ASSESSMENTS OR REFUNDS
+17 NCAC 05C .2303	EXTENT OF CHANGES WHICH MAY BE MADE
+17 NCAC 05C .2304	FRAUD PROVISIONS ON FEDERAL CHANGES
+
+History Note:	Authority G.S. 105‑130.20; 105‑262;
+Eff. February 1, 1976;
+Repealed Eff. October 31, 1981.
+
+SECTION .2400 ‑ DOMESTIC INTERNATIONAL SALES CORPORATION
+
+17 NCAC 05C .2401	DOING BUSINESS ACTIVITIES OF DISC
+A domestic international sales corporation (DISC) is a domestic corporation whose income is derived from export sales. The DISC transacts business by exporting the products of its parent or related companies with the income earned by the DISC deferred for federal income tax purposes. The Tax Reform Act of 1984 left only the interest charge DISC remaining whose tax benefits are limited with an interest charge for tax deferred amounts imposed on DISC shareholders. Since G.S. 105-130.3 imposes an income tax on every corporation unless otherwise exempted, a DISC doing business in this state shall be subject to income tax in this state and subject to the rules in this Subchapter except as provided in this Section.
+
+History Note:	Authority G.S. 105‑130.3; 105‑262;
+Eff. December 5, 1976;
+Amended Eff. January 1, 1994;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .2402	DETERMINATION OF DISC NET INCOME
+
+History Note:	Authority G.S. 105‑130.3; 105‑262;
+Eff. December 5, 1976;
+Repealed Eff. January 1, 1994.
+
+17 NCAC 05C .2403	APPORTIONMENT OF DISC NET INCOME
+The net income of a DISC subject to a tax measured by net income both within and without this state shall be apportioned to this state by use of the applicable apportionment formula set out in G.S. 105‑130.4. The ratio determined thereunder for apportioning the net income of the DISC shall be computed by including the property, payrolls and sales of the parent corporation and related participants in the respective factors of the DISC.
+
+History Note:	Authority G.S. 105‑130.4; 105‑130.6; 105-130.16; 105‑262;
+Eff. December 5, 1976;
+Amended Eff. January 1, 1994;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .2404	DIVIDENDS RECEIVED FROM DISC
+Dividends received by a corporate shareholder from a DISC must be included in the corporate shareholder's taxable income. Dividends received from a DISC by a corporate shareholder taxable in another state must be included in the corporate shareholder's apportionable income and apportioned to North Carolina. The term "dividends" means all amounts currently taxable under the Internal Revenue Code to corporate shareholders of a DISC whether or not distributed.
+
+History Note:	Authority G.S. 105-130.4; 105‑262;
+Eff. December 5, 1976;
+Amended Eff. January 1, 2005; August 1, 2002;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+
+17 NCAC 05C .2405	EARNINGS OF DISC NOT PREVIOUSLY TAXED
+
+History Note:	Authority G.S. 105‑130.1; 105‑130.6; 105‑130.15; 105‑130.16; 105‑262;
+Eff. November 1, 1984;
+Repealed Eff. April 1, 1991.
+
+SECTION .2500 ‑ FOREIGN SALES CORPORATION (FSC)
+
+17 NCAC 05C .2501	DOING BUSINESS ACTIVITIES/FOREIGN SALES CORPORATION (FSC)
+17 NCAC 05C .2502	DETERMINATION OF FSC NET INCOME
+17 NCAC 05C .2503	CONSOLIDATED RETURN
+17 NCAC 05C .2504	APPORTIONMENT ‑ CONSOLIDATED RETURN
+
+History Note:	Authority G.S. 105‑130.3; 105‑130.4; 105‑130.6; 105‑130.7; 105‑130.15; 105‑130.16; 105‑262;
+Eff. August 1, 1986;
+Amended Eff. January 1, 1988;
+Repealed Eff. October1, 1992.
+
+SECTION .2600 ‑ REINSTATEMENT OF CORPORATE CHARTER
+
+17 NCAC 05C .2601	REINSTATEMENT OF CORPORATE CHARTER
+
+History Note:	Authority G.S. 105‑230; 105‑232;
+Eff. November 1, 1991;
+Repealed Eff. October 1, 1993.
+
+

@@ -1,0 +1,25 @@
+﻿17 NCAC 01C .0507	 Enrollment for ACH credit and ach debit
+(a)  To enroll in ACH Credit or ACH Debit through the Data Collection Center taxpayers shall first enroll with the Department. Taxpayers shall complete and return Payment Method Authorization Agreement Form EFT-100D to enroll with the Department for ACH Debit. Taxpayers shall complete and return Payment Method Authorization Form EFT-100C to enroll with the Department for ACH Credit. The information required to be provided with the Payment Method Authorization Agreement Forms EFT-100D and EFT-100C includes the following:
+(1)	Taxpayer name;
+(2)	Taxpayer address;
+(3)	Federal employer identification number (FEIN);
+(4)	Tax type;
+(5)	Account number;
+(6)	Contact person (title, address, telephone number, and fax number);
+(7)	Bank name;
+(8)	Bank address;
+(9)	Bank transit/routing number;
+(10)	Bank account number;
+(11)	Input method; and
+(12)	Signature of person authorized to sign checks.
+The Payment Method Authorization Agreement Forms EFT-100D and EFT-100C are located on the Department's website at www.dornc.gov.
+(b)  For taxpayers enrolled in the ACH Debit method of payment, the Department shall provide the enrollment information from the Payment Method Authorization Agreement Form EFT-100D to the Data Collection Center.
+(c)  The Data Collection Center and its employees shall be bound by the same confidentiality requirements as the Department pursuant to G.S. 105-259.
+(d)  The Department shall provide information regarding the State's depository financial institution to a taxpayer who is enrolled in the ACH Credit method of payment. 
+(e)  A taxpayer shall notify the Department of any change of information required on the Payment Method Authorization Agreement Forms EFT-100C and EFT-100D within 30 calendar days of the change.
+
+History Note:	Authority G.S. 105-241; 105-259; 105‑262;
+Eff. October 1, 1993;
+Amended Eff. November 1, 1994;
+Readopted Eff. July 1, 2017.
+

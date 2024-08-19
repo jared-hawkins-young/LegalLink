@@ -1,0 +1,13 @@
+﻿SUBCHAPTER 05C ‑ CORPORATE INCOME TAX
+
+SECTION .0100 ‑ CORPORATIONS SUBJECT TO THE TAX: TAX RATE AND ALLOCATION
+
+17 NCAC 05C .0101	DOMESTIC AND FOREIGN CORPORATIONS REQUIRED TO FILE
+(a)  A foreign corporation operating in North Carolina may be liable for income tax even if it is not required to obtain a certificate of authority to do business in North Carolina. 
+(b)  Even for a year in which a domestic corporation or a foreign corporation with a certificate of authority to do business in North Carolina conducted no business activity or did not earn any net income in the State, it must file an income tax return. Entities treated as corporations for federal income tax purposes are also subject to this requirement.
+
+History Note:	Authority G.S. 105-130.3; 105-130.4; 105-130.16; 105-262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 1994;
+Readopted Eff. May 1, 2018.
+

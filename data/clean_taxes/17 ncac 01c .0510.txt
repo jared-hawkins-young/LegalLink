@@ -1,0 +1,19 @@
+﻿17 NCAC 01C .0510	EFT PAYMENT PROCEDURES - ACH DEBIT METHOD
+(a)  The taxpayer shall initiate an ACH Debit payment by contacting the Data Collection Center and communicating the payment information contained in Subparagraphs (c)(1) through (c)(5) of this Rule. Communication of payment information with the Data Collection Center may be accomplished by the following methods:
+(1)	Online batch payments accessible via the Department's ACH Debit Batch Payment System webpage at www.govone.com/tpp/northcarolina/Account/Logon;
+(2)	Touch-tone communication of payment information made by entering data via a touch-tone phone; or
+(3)	Voice communication via telephone to a Data Collection Center phone agent at 1-888-729-6282.
+(b)  The taxpayer shall report payment information to the Data Collection Center no later than 3:45 p.m., Eastern Standard Time, on the call-in day. The Department shall bear the cost of processing EFT payments by the ACH Debit method through the Data Collection Center.
+(c)  The following payment information is required:
+(1)	Taxpayer identification number;
+(2)	Tax type;
+(3)	Tax period end date;
+(4)	Payment type (Tax, Penalty, and Interest); and
+(5)	Payment amount.
+(d)  Upon receipt of the information from the taxpayer, the Data Collection Center shall provide the taxpayer with a reference number. The reference number provides a means of verifying the accuracy of the recorded tax payment and serves as a receipt and audit trail for the transaction.
+(e)  In the event a taxpayer using the ACH Debit method communicates payment information to the Data Collection Center after 3:45 p.m., Eastern Standard Time, on the business day before the due date, the payment shall be posted to the taxpayer's account on the next business day following the due date and shall constitute a late payment.
+
+History Note:	Authority G.S. 105-241; 105‑262;
+Eff. October 1, 1993;
+Readopted Eff. July 1, 2017.
+

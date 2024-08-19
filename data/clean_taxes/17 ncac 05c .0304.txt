@@ -1,0 +1,32 @@
+﻿17 NCAC 05C .0304	ATTRIBUTION OF EXPENSES TO NONTAXABLE INCOME
+(a)  Direct Expenses ‑ All expenses directly connected with the production of income which is not subject to tax in this State shall be used to compute the net amount of such untaxed income.
+(b)  Interest Expenses ‑ When a corporation earns income which is not taxed by this State (see examples), or holds property that does or will produce untaxed income, and incurs interest expense which is not specifically related to any particular income or property, it shall attribute a portion of the interest expense to such untaxed income and property in determining taxable income reported to this State. The formula used for computing the amount of interest expense to be attributed to untaxed income and property is as follows:
+(1)	Value of assets:
+(A)	Value of the tax return balance sheet of assets which produce or which would produce untaxed income; *
+(B)	Value of all assets on the tax return balance sheet; **
+(C)	Determine the ratio or percentage of Subparagraphs (b)(1)(A) to (B) of this Rule.
+(2)	Income/Profits:
+(A)	Gross untaxed income;
+(B)	Total gross profits;
+(C)	Determine the ratio or percentage of Subparagraphs (b)(2)(A) to (B) of this Rule.
+(3)	Total of the ratios or percentages determined in Subparagraphs (b)(1) and (2) of this Rule;
+(4)	Divide the total of Subparagraph (b)(3) of this Rule by two;
+(5)	Apply average percentage determined in Subparagraph (b)(4) of this Rule to the total interest expense on the return filed in this state.
+(c)  Examples of Untaxed Income are:
+(1)	Dividend income classified as nonapportionable (G.S. 105-130.4);
+(2)	Dividend income excludable by statute (G.S. 105-130.5);
+(3)	Interest income classified as nonapportionable (G.S. 105-130.4);
+(4)	Interest income earned on United States obligations and state of North Carolina obligations;
+(5)	Other nonapportionable income or exempt income.
+(d)  Expenses Connected with Interest Income from United States Obligations ‑ Under G.S. 105‑130.5(b)(1), interest income from obligations of the United States or its possessions is excludable from North Carolina taxable income to the extent such income is included in federal taxable income. Expenses incurred in producing the exempt income must be determined and subtracted from the gross amount earned during a taxable period before the deduction is made in computing the state taxable income. In the computation of expenses related to income from United States obligations, the formula described in Paragraph (b) of this Rule may be used with respect to interest expense.
+(e)  Other Expenses Attributed to Nontaxable Income and to Nonapportionable Income and Property ‑ In the determination of expenses other than interest expense attributed to untaxed income, the procedure set forth in the Federal Code for determining expenses related to foreign source income generally referred to as stewardship and supportive expenses may be used to determine the expenses allocated to untaxed income and property producing or which would produce untaxed income. Alternatively, an income formula as outlined in Paragraph (b)(2) of this Rule relating to interest expenses may be used to determine the amount of supportive function expenses attributable to untaxed income. In the determination of "supportive function expenses", direct expenses incurred exclusively in a specific identifiable taxable or nontaxable activity shall be determined and excluded before application of the attribution percentage to expenses. If direct expenses are determinable for a particular activity resulting in an accurate computation of the net income or loss from such activity, the values of this activity shall be removed as elements of the ratio when computing the attribution percentage.
+
+Note: * When the equity method of accounting is used, the increase or decrease in value as a result of such accounting method may be excluded from this value.
+
+Note: ** Equity included in this value may be excluded and the reserve for depreciation reflected on the balance sheet may be restored to the asset value.
+
+History Note:	Authority G.S. 105-130.4; 105-130.5; 105-262;
+Eff. April 1, 1991;
+Amended Eff. August 1, 2005; January 1, 2005; January 1, 1994;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+

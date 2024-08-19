@@ -1,0 +1,9 @@
+﻿SECTION .0700 - ELECTRONIC FILING OF RETURNS
+
+17 NCAC 01C .0701	electronic filing of returns
+A taxpayer may file a tax return with the Department of Revenue electronically only when the Department has established and implemented procedures permitting electronic filing of a specific tax return.  A return may be filed electronically only by using the procedures established by the Department for the particular return.
+
+History Note:	Authority G.S. 105‑262;
+Eff. March 1, 2006;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 20, 2016.
+

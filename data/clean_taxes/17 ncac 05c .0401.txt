@@ -1,0 +1,10 @@
+﻿SECTION .0400 ‑ INTEREST INCOME ON GOVERNMENT OBLIGATIONS
+
+17 NCAC 05C .0401	NORTH CAROLINA OBLIGATIONS
+Net interest income received by a corporation on obligations of the State of North Carolina and any of its cities, towns or counties is exempt from income taxes imposed by this state.
+
+History Note:	Authority G.S. 105‑130.5; 105‑262;
+Eff. February 1, 1976;
+Amended Eff. April 1, 1991;
+Pursuant to G.S. 150B-21.3A, rule is necessary without substantive public interest Eff. August 19, 2017.
+

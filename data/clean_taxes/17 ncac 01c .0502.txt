@@ -1,0 +1,10 @@
+﻿17 NCAC 01C .0502	Method of Payment
+(a)  Methods. -- Tax payments, including penalty and interest, shall be made by cash, warrant, uncertified check, certified check, money order, or another instrument freely negotiable at par through the Federal Reserve System. The Department shall notify the taxpayer at least 30 calendar days in advance if a specific method is to be required.
+(b)  U.S. Institutions and Currency. -- Checks, money orders, or other instruments shall be drawn on U.S. financial institutions in U.S. dollars and cents. 
+(c)  Certified Funds. -- Checks that have been returned to the Department due to insufficient funds in a taxpayer's account at a financial institution or the nonexistence of a taxpayer's account at a financial institution shall be repaid to the Department with certified funds when the penalty required by G.S. 105-236(1) applies. A certified funds payment is a form of payment that is guaranteed by the financial institution certifying the funds.
+
+History Note:	Authority G.S. 105-241; 105-236(1); 105 262;
+Eff. October 1, 1993;
+Amended Eff. July 1, 2000;
+Readopted Eff. July 1, 2017.
+

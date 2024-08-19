@@ -1,0 +1,11 @@
+﻿17 NCAC 01C .0505	EFT IDENTIFICATION AND NOTIFICATION PROCEDURES
+(a)  The Department shall review annually the payment histories of taxpayers for a 12 consecutive month period, on a tax type by tax type basis, to determine if the taxpayer shall be required to make EFT payments. A taxpayer shall be required to make EFT payments if the taxpayer's annual required payments of a tax for a 12 consecutive month period were at least two hundred and forty thousand dollars ($240,000). 
+(b)  Taxpayers required to make EFT payments in accordance with Paragraph (a) of this Rule, shall be notified by the Department 60 calendar days prior to the first day of the month in which the first EFT payment is due.
+(c)  The Department shall notify a taxpayer no longer required to make EFT payments 30 calendar days prior to the due date of the first non-EFT payment. A taxpayer shall no longer be required to make EFT payments if the taxpayer's annual required payments of a tax for a 12 consecutive month period were less than two hundred and forty thousand dollars ($240,000). 
+(d)  The Department shall not notify a taxpayer whose requirement to make EFT payments has not changed.
+
+History Note:	Authority G.S. 105-241; 105‑262;
+Eff. October 1, 1993;
+Amended Eff. May 1, 1995;
+Readopted Eff. July 1, 2017.
+

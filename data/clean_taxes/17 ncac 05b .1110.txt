@@ -1,0 +1,8 @@
+﻿17 NCAC 05B .1110	RECIPROCAL INDEBTEDNESS BETWEEN AFFILIATES
+A corporation that owes indebtedness to a parent, subsidiary, or affiliated corporation and at the same time is owed indebtedness by the same parent, subsidiary, or affiliated corporation shall net the payable and receivable for purposes of the indebtedness computation in arriving at the net worth base under G.S. 105-122. If the indebtedness is owed to one corporation and the receivable is due from another corporation, each amount shall be treated separately.
+
+History Note:	Authority G.S. 105-122; 105-262;
+Eff. February 1, 1976;
+Amended Eff. January 1, 1994;
+Readopted Eff. May 1, 2018.
+

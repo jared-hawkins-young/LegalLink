@@ -1,0 +1,9 @@
+﻿SECTION .0200 ‑ RAILROADS
+
+17 NCAC 05B .0201	BASIS FOR TAXATION
+17 NCAC 05B .0202	DUE DATE OF THE TAX
+
+History Note:	Authority G.S. 105‑115; 105‑262;
+Eff. February 1, 1976;
+Repealed Eff. October 31, 1981.
+

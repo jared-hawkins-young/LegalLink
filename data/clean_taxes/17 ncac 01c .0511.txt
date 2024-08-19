@@ -1,0 +1,19 @@
+﻿17 NCAC 01C .0511	EFT PAYMENT PROCEDURES - ACH CREDIT METHOD
+(a)  To enroll in the ACH Credit method taxpayers shall contact their financial institution to determine if the service is offered and make the necessary arrangements to transfer payments to the Department on or before the due date for a tax. The taxpayer shall bear the cost of an ACH Credit transaction.
+(b)  An ACH Credit payment shall be credited to the Department's account in its financial institution on or before the applicable due date for a tax. An ACH Credit payment credited to the Department's account in its financial institution after the applicable due date for a tax shall constitute a late payment. 
+(c)  All ACH Credit transactions shall utilize the NACHA CCD+ entry with a TXP Banking Convention addenda record. The TXP Banking Convention addenda record must include the following:
+(1)	Taxpayer's identification number;
+(2)	Tax type code;
+(3)	Tax period end date;
+(4)	Payment type (Tax, Penalty and Interest); and
+(5)	Amount of payment.
+(d)  The taxpayer shall provide the financial institution originating the ACH Credit transaction with the information contained in Subparagraphs (c)(1) through (c)(5) of this Rule in order for the financial institution to complete the NACHA CCD+ entry with the TXP Banking Convention addenda record. 
+(e)  The Department shall revoke the right of a taxpayer to use the ACH Credit method of payment if the taxpayer:
+(1)	Fails to transmit payments in the TPX Format as required by this Rule three or more times in a 12 consecutive month period;
+(2)	Fails to make ACH Credit payments on or before the due date for a tax three or more times in a 12 consecutive month period; or
+(3)	Fails to provide the correct addenda record data required by this Rule three or more times in a 12 consecutive month period.
+
+History Note:	Authority G.S. 105-241; 105‑262;
+Eff. October 1, 1993;
+Readopted Eff. July 1, 2017.
+
