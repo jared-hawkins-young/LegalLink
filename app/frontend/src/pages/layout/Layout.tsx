@@ -38,9 +38,9 @@ const Layout = () => {
             <header className={styles.header} role={"banner"}>
                 <div className={styles.headerContainer} ref={menuRef}>
                     <Link to="/" className={styles.headerTitleContainer}>
-                        <h3 className={styles.headerTitle}>Azure OpenAI + AI Search</h3>
+                        <h3 className={styles.headerTitle}>Legal Link</h3>
                     </Link>
-                    <nav>
+                    {/* <nav>
                         <ul className={`${styles.headerNavList} ${menuOpen ? styles.show : ""}`}>
                             <li>
                                 <NavLink
@@ -61,7 +61,7 @@ const Layout = () => {
                                 </NavLink>
                             </li>
                         </ul>
-                    </nav>
+                    </nav> */}
                     <div className={styles.loginMenuContainer}>
                         {useLogin && <LoginButton />}
                         <IconButton iconProps={{ iconName: "GlobalNavButton" }} className={styles.menuToggle} onClick={toggleMenu} ariaLabel="Toggle menu" />
